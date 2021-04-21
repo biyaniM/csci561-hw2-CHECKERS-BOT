@@ -1,4 +1,5 @@
-# CSCI- 561 – Spring 2021 - Foundations of Artificial Intelligence
+# Checkers Bot
+## CSCI- 561 – Spring 2021 - Foundations of Artificial Intelligence
 
 ![Checkers Board](https://github.com/biyaniM/csci561-hw2-CHECKERS-BOT/blob/master/checkers_board.png)
 
